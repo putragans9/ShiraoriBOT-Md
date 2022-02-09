@@ -22,10 +22,10 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'PutraXdBOT-Multi device'
-global.author = 'PutraXd'
+global.author = 'PutraXd Ofc'
 
-global.wm = 'PutraXdBOT-Md Made by Ilman'
-global.media = ''https://telegra.ph/file/4e3581f3ae06bfa621247.jpg'
+global.wm = 'PutraXdBOT-Md Made by PutraXd Pfc'
+global.media = 'https://telegra.ph/file/4e3581f3ae06bfa621247.jpg'
 
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
