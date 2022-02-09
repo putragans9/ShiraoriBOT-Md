@@ -1,6 +1,6 @@
-global.owner = ['6281351047727'] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.owner = ['6283842942635'] // Put your number here
+global.mods = ['6283842942635'] // Want some help?
+global.prems = ['6283842942635'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -21,11 +21,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'ShiraoriBOT Multi device'
-global.author = 'Ilman'
+global.packname = 'PutraXdBOT-Multi device'
+global.author = 'PutraXd'
 
-global.wm = '© ShiraoriBOT-Md Made by Ilman'
-global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
+global.wm = 'PutraXdBOT-Md Made by Ilman'
+global.media = ''https://telegra.ph/file/4e3581f3ae06bfa621247.jpg'
 
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
